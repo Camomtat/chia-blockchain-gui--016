@@ -94,7 +94,7 @@
     "react-virtuoso": "4.5.0",
     "redux": "4.2.1",
     "regenerator-runtime": "0.14.1",
-    "sanitize-filename": "1.6.3",
+    "sanitize-filename": "1.6.4",
     "seedrandom": "3.0.5",
     "stacktrace-js": "2.0.2",
     "styled-components": "6.0.7",
